@@ -71,4 +71,3 @@ By segmenting vulnerable IoT devices into a separate network—**The Phantom Net
 ## 💬 Author
 **Zachary Andrew Carriker**  
 Open to feedback, collaboration, and security discussions!  
-📫 [Insert GitHub or contact info here]
